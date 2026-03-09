@@ -51,4 +51,4 @@
 - 연령대별 분석 결과, **20대·30대**에서 Test 그룹의 CTR 상승 효과가 더 두드러짐
 
 ## 🧾산출물
-[대시보드](https://drive.google.com/file/d/1sSYfAnVBGkBc1ugY27tYWAlQ5rMprMv6/view?usp=sharing)
+[대시보드](https://drive.google.com/file/d/1sSYfAnVBGkBc1ugY27tYWAlQ5rMprMv6/view?usp=sharing) (Tableau)
